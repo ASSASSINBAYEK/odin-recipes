@@ -1,0 +1,37 @@
+body {
+  background-color: #121212;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1,
+h3 {
+  text-align: center;
+  color: palegoldenrod;
+}
+h3{
+    font-size: 28px;
+}
+h1{
+    font-size: 36px;
+}
+p {
+  margin: 50px 50px;
+  color: rosybrown;
+  width: fit-content;
+}
+li{
+    color: rosybrown;
+    margin: 10px;
+}
+img{
+    height: 500px;
+    width: auto;
+    align-self: center;
+    margin: 0 650px;
+}
+div a{
+    text-decoration: none;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
